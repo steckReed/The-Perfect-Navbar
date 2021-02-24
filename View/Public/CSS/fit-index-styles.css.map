@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,gBAAgB,CAAA;EACd,WAAW,EAAE,CAAC;EACd,QAAQ,EAAE,CAAC;EACX,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,GAAG;EAC1B,kBAAkB,EAAE,IAAI;EACxB,gBAAgB,ECPA,OAAO;CDQxB;;AAED,AAAA,qBAAqB,CAAA;EACnB,WAAW,EAAE,CAAC;EACd,QAAQ,EAAE,CAAC;EACX,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,WAAW;EAClC,kBAAkB,EAAE,IAAI;EACxB,UAAU,EAAE,IAAI;CACjB",
+    "sources": [
+        "../Sassy/fit-index-styles.scss",
+        "../Sassy/Imports/fit-color-palette.scss"
+    ],
+    "names": [],
+    "file": "fit-index-styles.css"
+}

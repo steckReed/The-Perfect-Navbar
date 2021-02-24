@@ -1,0 +1,19 @@
+@import './Imports/fit-color-palette';
+
+#index-page-grid{
+  grid-column: 1;
+  grid-row: 2;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  background-color: $color-primary;
+}
+
+#index-section-1-grid{
+  grid-column: 1;
+  grid-row: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  min-height: 95vh;
+}
